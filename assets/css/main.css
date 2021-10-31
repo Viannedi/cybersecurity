@@ -1,12 +1,19 @@
-/* @import url(//fonts.googleapis.com/css?family=Lato:300:400); */
 @charset "UTF-8";
-/*
-* Trunk version 2.0.1
-*/
-/*
-* Contexts
-*/
 
+.extension {
+	text-align: center;
+}
+.primary-background { 
+	background-color: #007aff;
+}
+.primary-background_h {
+	color: white;
+	font-size: 50px;
+	font-weight: bold;
+}
+.primary-background_text {
+	color: rgb(255, 255, 255); 
+}
 .services .section-heading {
 	text-align: center;
 	margin-bottom: 80px;
@@ -250,17 +257,7 @@ body {
   margin:0;
 }
   
-.primary-background { 
-	background-color: #007aff;
-}
-/* .primary-background h2 {
-	color: white;
-	font-size: 50px;
-	font-weight: bold;
-}
-.primary-background ul, p {
-	color: rgb(255, 255, 255); 
-} */
+ 
 .header {
   position:relative;
   text-align:center;
